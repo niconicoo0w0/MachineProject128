@@ -3,23 +3,14 @@
 
 <h3> Descrption </h3>
 
-This repository contains all of the projects for CS128 and CS128 Honor, a course that teaches the fundamentals of machine learning using C++ and Rust.
+This repository contains all of the projects for CS128, a course that teaches the fundamentals of machine learning using C++.
 
 <h3> Prerequisites </h3>
 
   - Basic understanding of programming concepts
   
-  - Knowledge of C++ or Rust programming language
-  
-<h3> Project Requirements </h3>
-
-  - All projects must be written in either C++ or Rust
+  - Knowledge of C++ programming language
  
-  - Code must be well-documented and commented
-  
-  - Projects must be submitted through the course website.
-
-
 <h3> Project List </h3>
 
   - Branched Linked List
