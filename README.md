@@ -28,7 +28,7 @@ This repository contains all of the projects for CS128 and CS128 Honor, a course
   
   - Circular Linked List
   
-  - DNA Forensics
+  - DNA Forensics           
   
   - DNA Splicing
   
@@ -41,3 +41,4 @@ This repository contains all of the projects for CS128 and CS128 Honor, a course
   - Seam Carving
 
   - Word Search
+
